@@ -1,0 +1,40 @@
+.content-width{
+  width: 600px;
+  text-align: center;
+  border: solid 2px #222;
+  background-color: #a9a9a9;
+  height: 400px;
+  border-radius: 15px;
+}
+
+.title{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font: 5px;
+  font-weight: bold;
+}
+
+.header{
+  display: flex;
+}
+
+#display{
+ width: 300px;
+ height: 30px;
+}
+
+.output input{
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.commands input{
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
